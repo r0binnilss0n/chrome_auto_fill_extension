@@ -1,0 +1,43 @@
+.container {
+  width: 14.5rem;
+  height: 14.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #011627;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  margin: 0.6rem;
+  min-width: 7.5px;
+}
+
+.qbis-btn {
+  background-color: #F44336; /* Red */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.harvest-btn {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.miltime-btn {
+  background-color: #2196F3; /* Blue */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
