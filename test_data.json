@@ -1,23 +1,16 @@
 {
-    "Mon 23": {
-        "start": "09:00",
-        "lunch": "00:30",
-        "end": "18:00",
-        "int": "02:00",
-        "bill": "01:30"
-    },
-    "Tue 24": {
-        "start": "08:00",
-        "lunch": "00:30",
-        "end": "16:00",
-        "int": "02:00",
-        "bill": "01:30"
-    },
-    "Wed 23": {
-        "start": "09:00",
-        "lunch": "00:30",
-        "end": "18:00",
-        "int": "02:00",
-        "bill": "01:30"
+    "Mon 13": {
+        "START": "07:30",
+        "END": "13:00",
+        "LUNCH": "01:00",
+        "Billable hours": "03:00",
+        "Internal communication": "01:30",
+        "Business Development": "07:00",
+        "Competence development": "06:00",
+        "DevOps intern": "05:00",
+        "Internal projects": "04:00",
+        "Malvacom Board": "03:00",
+        "Malvacom Web": "02:00",
+        "Miljöarbete": "01:00"
     }
 }
